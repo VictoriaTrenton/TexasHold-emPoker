@@ -12,4 +12,4 @@ Partner delegated to write HandRanking.java
 
 Start with **TexasHoldemDemo.java**.
 
-Preview window capture is shown in game_screen_shot.PNG.
+Preview window capture is shown in **game_screen_shot.PNG**.
