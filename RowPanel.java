@@ -1,7 +1,6 @@
 //******************************************************************************
 // 		RowPanel.java
-//									Authors:   Partner &
-//											   Vicki Trenton
+//									Authors:   Partner & Victoria Trenton
 //									Class:	   CS152
 //									Assignment:Texas Hold'em Game
 //
