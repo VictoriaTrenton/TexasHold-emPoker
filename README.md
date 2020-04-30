@@ -2,7 +2,7 @@
 
 ## Description
 
-Texas Hold'em poker game project for first-year computer science course
+Texas Hold'em poker game project for first-year Computer Science course
 
 Authors: Partner and Victoria Trenton
 
