@@ -1,4 +1,4 @@
-# TexasHold-emPoker
+# TexasHoldemPoker
 
 ## Texas Hold'em
 
