@@ -10,7 +10,7 @@ Texas Hold'em poker game project for first-year Computer Science course
 
 Authors: Partner and Victoria Trenton
 
-Partner delegated to write HandRanking.java
+Partner delegated to write **HandRanking.java**
 
 ## Setup
 
