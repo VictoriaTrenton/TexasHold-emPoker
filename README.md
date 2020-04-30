@@ -8,7 +8,7 @@ Authors: Partner and Victoria Trenton
 
 Partner delegated to write HandRanking.java
 
-## How to run
+## Setup
 
 Start with **TexasHoldemDemo.java**.
 
