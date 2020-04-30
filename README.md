@@ -3,11 +3,13 @@
 ## Description
 
 Texas Hold'em poker game project for first-year Computer Science course
+
 "Interact as a single player in a poker game of Texas Hold'em against the house."
 
 ## Credit
 
 Authors: Partner and Victoria Trenton
+
 Partner delegated to write HandRanking.java
 
 ## Setup
