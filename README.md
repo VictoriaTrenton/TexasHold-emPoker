@@ -1,8 +1,8 @@
 # TexasHoldemPoker
 
-## Texas Hold'em
+## Description
 
-Poker game project for first-year computer science course
+Texas Hold'em poker game project for first-year computer science course
 
 Authors: Partner and Victoria Trenton
 
