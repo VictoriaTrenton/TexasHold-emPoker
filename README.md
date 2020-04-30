@@ -1,8 +1,8 @@
 # TexasHold-emPoker
 
-## Texas Hold'em poker game
+## Texas Hold'em
 
-Project for first-year computer science course
+Poker game project for first-year computer science course
 
 Authors: Partner and Victoria Trenton
 Partner delegated to write HandRanking.java
