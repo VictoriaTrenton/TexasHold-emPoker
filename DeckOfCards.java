@@ -1,6 +1,6 @@
 //******************************************************************************
 // 	  DeckOfCards.java
-//									Authors:   Jonathan Murley &
+//									Authors:   Partner &
 //											   Vicki Trenton
 //									Class:	   CS152
 //									Assignment:Texas Hold'em Game
