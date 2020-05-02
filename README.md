@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a Texas Hold'em poker game project for my first-year Computer Science course.
+This was a Texas Hold'em poker game project for my first-year Computer Science course.
 
 "Interact as a single player in a poker game of Texas Hold'em against the house."
 
