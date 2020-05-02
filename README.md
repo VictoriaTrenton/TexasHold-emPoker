@@ -1,4 +1,4 @@
-# TexasHold-emPoker
+# TexasHoldemGame
 
 ## Description
 
