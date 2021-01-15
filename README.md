@@ -2,6 +2,9 @@
 
 ## Description
 
+•	Simulated card game with automated opponent for partnered assignment using Java, facilitating completion five days before two-week deadline due to solid foundational modules
+•	Designed graphical user interface, created essential supporting modules, ensured modular compatibility, conducted edge-case testing, and delegated sorting algorithm to partner to maximize personal strengths
+
 This was a Texas Hold'em poker game project for my first-year Computer Science course.
 
 "Interact as a single player in a poker game of Texas Hold'em against the house."
