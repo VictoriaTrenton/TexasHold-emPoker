@@ -1,6 +1,6 @@
 # TexasHoldemGame
 
-## Notes
+## Main Points
 
 •	Simulated card game with automated opponent for partnered assignment using Java, facilitating completion five days before two-week deadline due to solid foundational modules
 
